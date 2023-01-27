@@ -1,3 +1,3 @@
 # Justin Guay
 
-<img src="Juju.jpg" style="width: 500px;"></img>
+<img src="Juju.jpg" style="width: 300px;"></img>
