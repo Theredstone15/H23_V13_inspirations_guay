@@ -1,6 +1,6 @@
 # Justin Guay
 
-<img src="Juju.jpg" style="width: 300px;"></img>
+![Photo de Justin](Juju.jpg)
 
 ## Intérêts dans le domaine du multimédia
 
