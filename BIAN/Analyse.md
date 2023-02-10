@@ -29,3 +29,7 @@
 <img src="Medias/Circuit1.jpg" style="width: 300px;"></img> <img src="Medias/Circuit2.jpg" style="width: 300px;"></img> <img src="Medias/Arriere.jpg" style="width: 300px;"></img>
 
 - Éléments nécessaires à l'exposition: Des projecteurs qui éclairent les trois voitures, 4 microcontrôleurs rasbperry pi qui traitent les informations sur les plantes et 4 circuits de relais qui contrôlent les pompes et l'éclairage intérieur.
+
+## Expérience vécue
+
+Voir les plantes qui ont poussé au fil du temps dans ces voitures est quelque chose d'un peu hors du commun, puisque c'est ce qu'on verrait dans un monde post apocalyptique. 
