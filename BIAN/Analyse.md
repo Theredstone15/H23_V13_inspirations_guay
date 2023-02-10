@@ -26,4 +26,4 @@
 
 - Composantes et techniques: Chaque système de maintenance des plantes est géré par un microcontrôleur rasbpberry pi. Les microcontrôleurs actionnent des relais qui vont déclencher la lumière et les pompes pour la vapeur d'eau. L'eau pour les plantes est stockée à l'arrière des voitures dans de grosses poubelles noires.
 
-<img src="Medias/Circuit1.png" style="width: 300px;"></img> <img src="Medias/Circuit2.png" style="width: 300px;"></img> <img src="Medias/Arriere.png" style="width: 300px;"></img>
+<img src="Medias/Circuit1.jpg" style="width: 300px;"></img> <img src="Medias/Circuit2.jpg" style="width: 300px;"></img> <img src="Medias/Arriere.jpg" style="width: 300px;"></img>
