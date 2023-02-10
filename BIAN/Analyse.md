@@ -11,4 +11,4 @@
 
 -Titre de l'oeuvre: **Tomorrow's Borrowed Scenery**
 
-<img src="media/Les_châteaux_de_sable.jpg" style="width: 500px;"></img>
+<img src="Media/Oeuvre.jpg" style="width: 500px;"></img>
