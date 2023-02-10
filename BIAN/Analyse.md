@@ -1,4 +1,4 @@
-# Visite et expérience de la 6ème biennale internationale d'art numérique
+# Fiche de présentation de L'oeuvre "Tomorrow's Borrowed Scenery"
 
 ## Informations sur l'exposition
 
@@ -23,3 +23,7 @@
 - Mise en espace: L'oeuvre est située au coin d'une pièce. Les voitures sont orientées de façon à ce qu'on voit les plantes du centre de la pièce. Elles ne sont pas collées au mur par contre, puisque il faut passer pas derrière pour accéder à certaines composantes importantes pendant la maintenance.
 
 <img src="Medias/Croquis.png" style="width: 300px;"></img>
+
+- Composantes et techniques: Chaque système de maintenance des plantes est géré par un microcontrôleur rasbpberry pi. Les microcontrôleurs actionnent des relais qui vont déclencher la lumière et les pompes pour la vapeur d'eau. L'eau pour les plantes est stockée à l'arrière des voitures dans de grosses poubelles noires.
+
+<img src="Medias/Circuit1.png" style="width: 300px;"></img> <img src="Medias/Circuit2.png" style="width: 300px;"></img> <img src="Medias/Arriere.png" style="width: 300px;"></img>
