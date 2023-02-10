@@ -27,3 +27,5 @@
 - Composantes et techniques: Chaque système de maintenance des plantes est géré par un microcontrôleur rasbpberry pi. Les microcontrôleurs actionnent des relais qui vont déclencher la lumière et les pompes pour la vapeur d'eau. L'eau pour les plantes est stockée à l'arrière des voitures dans de grosses poubelles noires.
 
 <img src="Medias/Circuit1.jpg" style="width: 300px;"></img> <img src="Medias/Circuit2.jpg" style="width: 300px;"></img> <img src="Medias/Arriere.jpg" style="width: 300px;"></img>
+
+- Éléments nécessaires à l'exposition: Des projecteurs qui éclairent les trois voitures, 4 microcontrôleurs rasbperry pi qui traitent les informations sur les plantes et 4 circuits de relais qui contrôlent les pompes et l'éclairage intérieur.
