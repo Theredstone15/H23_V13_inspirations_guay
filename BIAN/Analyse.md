@@ -20,4 +20,4 @@
 <img src="Medias/Cartel.jpg" style="width: 300px;"></img> <img src="Medias/Plantes1.jpg" style="width: 300px;"></img> <img src="Medias/Plantes2.jpg" style="width: 300px;"></img>
 
 - Type d'installation: Contemplative
-- Mise en espace: 
+- Mise en espace: <img src="Medias/Croquis.png" style="width: 300px;"></img>
