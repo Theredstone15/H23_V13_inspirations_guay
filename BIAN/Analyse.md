@@ -20,7 +20,5 @@
 <img src="Medias/Cartel.jpg" style="width: 300px;"></img> <img src="Medias/Plantes1.jpg" style="width: 300px;"></img> <img src="Medias/Plantes2.jpg" style="width: 300px;"></img>
 
 - Type d'installation: Contemplative
-- Mise en espace: 
+- Mise en espace: L'oeuvre est située au coin d'une pièce. Les voitures sont orientées de façon à ce qu'on voit les plantes du centre de la pièce. Elles ne sont pas collées au mur par contre, puisque il faut passer pas derrière pour accéder à certaines composantes importantes pendant la maintenance.
 <img src="Medias/Croquis.png" style="width: 300px;"></img>
-L'oeuvre est située au coin d'une pièce. Les voitures sont orientées de façon à ce qu'on voit les plantes du centre de la pièce. Elles ne sont pas collées au mur par contre, puisque il faut passer pas derrière pour accéder à certaines composantes importantes pendant la maintenance.
-
