@@ -39,4 +39,4 @@ Voir les plantes qui ont poussé au fil du temps dans ces voitures est quelque c
 
 ## Aspects à ne pas retenir
 
-Bien que le concept soit simple, il n'est pas très facile de comprendre le but de cette oeuvre. Un timelapse arait pu être une bonne facon de montrer la progression des plantes au fil du temps, comme l'oeuvre des deux voitures.
+Bien que le concept soit simple, il n'est pas très facile de comprendre le but de cette oeuvre. Un timelapse arait pu être une bonne facon de montrer la progression des plantes au fil du temps, comme l'oeuvre des deux voitures par exemple.
