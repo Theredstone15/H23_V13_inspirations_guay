@@ -34,9 +34,9 @@
 - Éléments nécessaires à l'exposition: Des projecteurs qui éclairent les trois voitures, 4 microcontrôleurs rasbperry pi qui traitent les informations sur les plantes et 4 circuits de relais qui contrôlent les pompes et l'éclairage intérieur.
 
 ## Expérience vécue
-
+Puisque les composants de l'oeuvre peuvent être fragiles, l'interacteur ne doit que contempler l'oeuvre.
 Voir les plantes qui ont poussé au fil du temps dans ces voitures est quelque chose d'un peu hors du commun, puisque c'est ce qu'on verrait dans un monde post apocalyptique. C'est plutôt intéressant de voir que une tâche aussi simple à réaliser qu'est de s'occuper de plantes, ait besoin d'autant de circuiterie pour fonctionner.
 
 ## Aspects à ne pas retenir
 
-Bien que le concept soit simple, il n'est pas très facile de comprendre le but de cette oeuvre. Un timelapse arait pu être une bonne facon de montrer la progression des plantes au fil du temps, comme l'oeuvre des deux voitures par exemple.
+Bien que le concept soit simple, il n'est pas très facile de comprendre le but de cette oeuvre. Un timelapse aurait pu être une bonne façon de montrer la progression des plantes au fil du temps, comme l'oeuvre des deux voitures par exemple.
