@@ -4,7 +4,7 @@
 
 - Exposition: 6e biennale d'art numérique
 - Lieu d'exposition: Arsenal d'art contemporain, 2020 rue william Montréal
-<img src="Medias/Entree.jpg" style="width: 500px;"></img>
+<img src="Medias/Entree.png" style="width: 500px;"></img>
 
 - Type: Exposition temporaire
 - Date de la visite: 3 février
