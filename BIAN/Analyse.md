@@ -32,4 +32,8 @@
 
 ## Expérience vécue
 
-Voir les plantes qui ont poussé au fil du temps dans ces voitures est quelque chose d'un peu hors du commun, puisque c'est ce qu'on verrait dans un monde post apocalyptique. 
+Voir les plantes qui ont poussé au fil du temps dans ces voitures est quelque chose d'un peu hors du commun, puisque c'est ce qu'on verrait dans un monde post apocalyptique. C'est plutôt intéressant de voir que une tâche aussi simple à réaliser qu'est de s'occuper de plantes, ait besoin d'autant de circuiterie pour fonctionner.
+
+## Aspects à ne pas retenir
+
+Bien que le concept soit simple, il n'est pas très facile de comprendre le but de cette oeuvre. Un timelapse arait pu être une bonne facon de montrer la progression des plantes au fil du temps, comme l'oeuvre des deux voitures.
