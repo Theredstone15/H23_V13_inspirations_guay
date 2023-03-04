@@ -8,6 +8,8 @@ Lien: https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.
 
 ## Installation en cours
 
+Le projet est pour être installé devant le collège, dans le petit sentier en face de la salle André Mathieu
+
 <img src="../Medias/Lieu.png" style="width: 500px;"></img>
 
 [Image tirée du site du projet Nexum]
