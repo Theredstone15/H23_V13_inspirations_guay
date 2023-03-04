@@ -34,4 +34,4 @@ Trois cours nécessaires à la conception de cette oeuvre sont:
 
 Plusieurs microcontrôleurs Arduino son utilisés pour contrôler l'animation de l'éclairage. Un microcontrôleur n'est pas exactement un ordinateur mais plutôt un contrôleur. Il fonctionne en créant du code pour celui ci via Arduino IDE. On utilise les plusieurs inputs et outputs (au choix) pour envoyer et recevoir toutes sortes de signaux digitaux.
 
-<img src="../Medias/Arduino.jpg" style="width: 500px;"></img>
+<img src="../Medias/Arduino.jpg" style="width: 300px;"></img>
