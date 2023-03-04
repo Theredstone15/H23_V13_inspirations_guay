@@ -20,6 +20,8 @@ Le projet est pour être installé devant le collège, dans le petit sentier en 
 
 <img src="../Medias/Passe_lumiere.png" style="width: 500px;"></img>
 
+[Image tirée du site du projet Nexum]
+
 ## Cours nécessaires
 
 Trois cours nécessaires à la conception de cette oeuvre sont:
