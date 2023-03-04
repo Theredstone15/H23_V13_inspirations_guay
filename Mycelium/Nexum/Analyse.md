@@ -14,6 +14,8 @@ Lien: https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.
 
 ## Schéma de l'installation
 
+<img src="../Medias/Passe_lumiere.png" style="width: 500px;"></img>
+
 ## Cours nécessaires
 
 ## Technique ou composante utilisée
