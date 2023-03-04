@@ -1,4 +1,4 @@
-# Nexum
+# Nexum / Boucler la boucle
 
 Oeuvre réalisée par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers
 
