@@ -8,7 +8,7 @@ Lien: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
 
 ## Installation en cours
 
-<img src="../Medias/Velo1.png" style="width: 500px;"></img><img src="../Medias/Velo2.png" style="width: 500px;"></img>
+<img src="../Medias/Velo1.jpg" style="width: 500px;"></img><img src="../Medias/Velo2.jpg" style="width: 500px;"></img>
 
 ## Schéma de l'installation
 
