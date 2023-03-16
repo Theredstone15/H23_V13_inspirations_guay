@@ -25,3 +25,5 @@ Installation multimédia: Afin de correctement monter les projecteurs et composa
 ## Technique ou composante utilisée
 
 MadMapper: Madmapper est utilisé afin de monter les murs de projections correctement. MadMapper est un logiciel utilisé afin de préparer une surface de projection qui n'est pas conventionnelle comme un tableau blanc, mais plutôt sur des surfaces telles des maisons ou murs arrondis.
+
+<img src="../Medias/MadMapper.png" style="width: 500px;"></img>
