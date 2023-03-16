@@ -12,6 +12,8 @@ Lien: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
 
 ## Schéma de l'installation
 
+<img src="../Medias/Schema.png" style="width: 500px;"></img>
+
 ## Cours nécessaires
 
 ## Technique ou composante utilisée
