@@ -10,6 +10,8 @@ Lien: https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html
 
 <img src="../Medias/cartographie.png" style="width: 500px;"></img>
 
+Cartographie tirée de la page du projet
+
 ## Cours nécessaires
 
 ## Technique ou composante utilisée
