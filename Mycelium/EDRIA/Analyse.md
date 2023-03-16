@@ -12,6 +12,8 @@ Lien: https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
 
 ## Schéma de l'installation
 
+<img src="../Medias/visualisation.png" style="width: 500px;"></img>
+
 ## Cours nécessaires
 
 ## Technique ou composante utilisée
