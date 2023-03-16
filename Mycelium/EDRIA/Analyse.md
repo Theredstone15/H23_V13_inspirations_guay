@@ -24,6 +24,6 @@ Objets interactifs: Afin d'ajouter des objets qui créeront l'interactivité
 
 ## Technique ou composante utilisée
 
-Max 8: Ce logiciel est utilisé afin de faire fonctionner l'audio et l'éclairage en tandem
+Max 8: Ce logiciel est utilisé afin de faire fonctionner l'audio et l'éclairage en tandem. Max est un logiciel multifontcion qui sert à programmer en utilisant des modules qui serviront de code afin de géere des évènements en direct.
 
 <img src="../Medias/ManPatcher.jpg" style="width: 500px;"></img>
