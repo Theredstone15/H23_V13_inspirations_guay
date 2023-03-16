@@ -26,4 +26,4 @@ Objets interactifs: Afin d'ajouter des objets qui créeront l'interactivité
 
 Max 8: Ce logiciel est utilisé afin de faire fonctionner l'audio et l'éclairage en tandem
 
-<img src="../Medias/ManPatcher.png" style="width: 500px;"></img>
+<img src="../Medias/ManPatcher.jpg" style="width: 500px;"></img>
