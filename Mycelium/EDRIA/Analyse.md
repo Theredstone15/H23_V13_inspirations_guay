@@ -8,6 +8,8 @@ Lien: https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
 
 ## Installation en cours
 
+<img src="../Medias/scena.png" style="width: 500px;"></img>
+
 ## Schéma de l'installation
 
 ## Cours nécessaires
