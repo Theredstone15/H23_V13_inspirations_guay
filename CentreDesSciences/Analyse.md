@@ -27,6 +27,6 @@ Description du dispositif: "Un programme de fabrication commun" est un dispositi
 
 Composantes et techniques: Il y a une puce RFID (Radio Frequency Identification) à l'intérieur de chaque rectangle. Grâce à ces puces, le dispositif est capable de déterminer si le bon rectangle est à la bonne place. Si c'est le cas, le texte associé au rectangle s'allume. Chaque texte qui s'allume est connecté à un contrôleur XLR (External line return) qui permet de facilement contrôler les éclairages, sur demande d'un microcontrôleur tel qu'un Arduino.
 
-<img src="medias/Machine1" style="width: 500px;"></img> <img src="medias/Machine2.jpg" style="width: 500px;"></img>
+<img src="medias/Machine1.jpg" style="width: 500px;"></img> <img src="medias/Machine2.jpg" style="width: 500px;"></img>
 
 ## Expérience vécue
