@@ -22,3 +22,5 @@ Description du dispositif: "Un programme de fabrication commun" est un dispositi
 
 - Type d'installation: Interactive
 - Mise en espace: Le dispositif est installé parmi plusieurs autres dispositifs similaires. Des projecteurs sont installés au plafond afin d'éclairer uniformément le dispositif.
+
+[//]: # (Insérer Croquis de la mise en espace)
