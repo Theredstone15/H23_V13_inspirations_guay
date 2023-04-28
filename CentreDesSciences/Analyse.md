@@ -30,3 +30,7 @@ Composantes et techniques: Il y a une puce RFID (Radio Frequency Identification)
 <img src="medias/Machine1.jpg" style="width: 500px;"></img> <img src="medias/Machine2.jpg" style="width: 500px;"></img>
 
 ## Expérience vécue
+Ce dispositif est très amusant, en plus d'être éducatif. Les rectangles sont très solides, donc pas besoin de faire attention au matériel (quoique inutile de faire exprès de l'endommager). Malgré la simplicité de ce qui est attendu de nous, c'est un bon casse tête, car il y a beaucoup de lignes de couleur. Il devient de plus en plus facile de placer les rectangles plus il y en a de placés cependant, puisque il y a de moins en moins d'espace à force de les placer correctement.
+
+## Aspects à ne pas retenir ou faits autrement
+
