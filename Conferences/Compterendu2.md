@@ -1,2 +1,2 @@
-# Conférence de Karine Charbonneau
+# Conférence de Karine Charbonneau, Antimodular
 
