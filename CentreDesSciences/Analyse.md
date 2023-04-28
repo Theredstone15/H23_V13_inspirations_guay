@@ -10,7 +10,7 @@
 - Type: Exposition Permanente
 - Date de la visite: Mercredi 12 Avril 2023
 
-# Informations sur le dispositif
+## Informations sur le dispositif
 
 - Titre du dispositif: Un programme de fabrication commun
 
@@ -24,3 +24,9 @@ Description du dispositif: "Un programme de fabrication commun" est un dispositi
 - Mise en espace: Le dispositif est installé parmi plusieurs autres dispositifs similaires. Des projecteurs sont installés au plafond afin d'éclairer uniformément le dispositif.
 
 [//]: # (Insérer Croquis de la mise en espace)
+
+Composantes et techniques: Il y a une puce RFID (Radio Frequency Identification) à l'intérieur de chaque rectangle. Grâce à ces puces, le dispositif est capable de déterminer si le bon rectangle est à la bonne place. Si c'est le cas, le texte associé au rectangle s'allume. Chaque texte qui s'allume est connecté à un contrôleur XLR (External line return) qui permet de facilement contrôler les éclairages, sur demande d'un microcontrôleur tel qu'un Arduino.
+
+<img src="medias/Machine1" style="width: 500px;"></img> <img src="medias/Machine2.jpg" style="width: 500px;"></img>
+
+## Expérience vécue
