@@ -13,3 +13,5 @@
 # Informations sur le dispositif
 
 - Titre du dispositif: Un programme de fabrication commun
+
+<img src="medias/Titre.jpg" style="width: 500px;"></img>
