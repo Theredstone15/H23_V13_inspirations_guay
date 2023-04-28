@@ -23,7 +23,7 @@ Description du dispositif: "Un programme de fabrication commun" est un dispositi
 - Type d'installation: Interactive
 - Mise en espace: Le dispositif est installé parmi plusieurs autres dispositifs similaires. Des projecteurs sont installés au plafond afin d'éclairer uniformément le dispositif.
 
-[//]: # (Insérer Croquis de la mise en espace)
+<img src="medias/Croquis.png" style="width: 500px;"></img>
 
 Composantes et techniques: Il y a une puce RFID (Radio Frequency Identification) à l'intérieur de chaque rectangle. Grâce à ces puces, le dispositif est capable de déterminer si le bon rectangle est à la bonne place. Si c'est le cas, le texte associé au rectangle s'allume. Chaque texte qui s'allume est connecté à un contrôleur XLR (External line return) qui permet de facilement contrôler les éclairages, sur demande d'un microcontrôleur tel qu'un Arduino.
 
