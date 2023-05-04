@@ -24,7 +24,7 @@ Type d'installation: Interactive
 
 <img src="Medias/SchemaElectrique.png" style="width: 500px;"></img>
 
--Composantes et techniques: Les structures possèdent des haut parleurs afin de diffuser la musique et les effets sonores. Des lumières sont également installées sur les structures afin d'éclairer l'environnement. L'appareil qui contrôle l'oeuvre est placée dans une boîte noire. La structure du centre possède 4 capteurs qui déterminent si quelqu'un est présent. Il y a égalament des cache-fils sur le sol afin d'éviter de trébucher sur les fils.
+-Composantes et techniques: Les structures possèdent des haut parleurs afin de diffuser la musique et les effets sonores. Il y a également des cache-fils sur le sol afin d'éviter de trébucher sur les fils. Des lumières sont également installées sur les structures afin d'éclairer l'environnement. L'appareil qui contrôle l'oeuvre est placée dans une boîte noire. La structure du centre possède 4 capteurs qui déterminent si quelqu'un est présent. 
 
-<img src="Medias/Speaker.jpg" style="width: 100px;"></img> <img src="Medias/PoleTop.jpg" style="width: 100px;"></img> <img src="Medias/Controleur.jpg" style="width: 100px;"></img> <img src="Medias/PoleCentre.jpg" style="width: 100px;"></img> <img src="Medias/Capteurs.jpg" style="width: 100px;"></img> <img src="Medias/CacheFil.jpg" style="width: 100px;"></img>
+<img src="Medias/Speaker.jpg" style="width: 100px;"></img> <img src="Medias/CacheFil.jpg" style="width: 100px;"></img> <img src="Medias/Controleur.jpg" style="width: 100px;"></img> <img src="Medias/PoleCentre.jpg" style="width: 100px;"></img> <img src="Medias/Capteurs.jpg" style="width: 100px;"></img> <img src="Medias/PoleTop.jpg" style="width: 100px;"></img>
 
