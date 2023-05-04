@@ -5,7 +5,7 @@
 - Exposition: Humain
 - Lieu d'exposition: Centre des sciences de Montréal, 2 Rue de la commune Ouest Montréal
 
-<img src="medias/Entree.jpg" style="width: 500px;"></img>
+<img src="medias/Groupe.jpg" style="width: 500px;"></img>
 
 - Type: Exposition Permanente
 - Date de la visite: Mercredi 12 Avril 2023
