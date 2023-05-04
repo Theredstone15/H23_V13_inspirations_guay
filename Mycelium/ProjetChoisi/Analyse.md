@@ -38,7 +38,7 @@ Le mélange de sons et de lumière était très agréable. C'était plutôt amus
 
 ## Éléments pertinents
 
-Le placement des structures permet de diffuser l'éclairage sur tout son environnement de façon efficace.
+Le placement des structures permet de diffuser l'éclairage sur tout son environnement de façon efficace, de même que le placement des haut parleurs permet de bien diffuser le son dans son environnement.
 
 ## Aspects à ne pas retenir ou faits autrement
 
