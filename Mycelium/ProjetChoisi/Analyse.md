@@ -22,4 +22,4 @@ Type d'installation: Interactive
 
 -Mise en espace: L'oeuvre est située à l'extérieur à un endroit public où les gens peuvent circuler. Les plusieurs structures sont placées uniformément dans cet espace.
 
-<img src="Medias/.jpg" style="width: 500px;"></img>
+<img src="Medias/SchemaElectrique.png" style="width: 500px;"></img>
