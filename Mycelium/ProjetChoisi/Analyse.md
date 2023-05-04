@@ -42,7 +42,7 @@ Le placement des structures permet de diffuser l'éclairage sur tout son environ
 
 ## Aspects à ne pas retenir ou faits autrement
 
-Il n'est pas très intuitif de se placer devant le pilier central et encore moins de placer quatre personnes devant les quatre capteurs en même temps. Cela aurait peut-être pris un au moins moyen de mettre en évidence qu'on doit se placer devant les capteurs.
+Il n'est pas très intuitif de se placer devant le pilier central et encore moins de placer quatre personnes devant les quatre capteurs en même temps. Cela aurait peut-être pris au moins un moyen de mettre en évidence qu'on doit se placer devant les capteurs.
 
 ## Références
 
