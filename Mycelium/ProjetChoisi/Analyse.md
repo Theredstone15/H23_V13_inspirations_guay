@@ -36,6 +36,10 @@ Type d'installation: Interactive
 
 Le mélange de sons et de lumière était très agréable. C'était plutôt amusant de se placer en face de la structure principale afin de déclencher les animations. C'était aussi plaisant d'avoir un entroit où s'asseoir grâce à la table qui s'y trouve.
 
+## Éléments pertinents
+
+Le placement des structures permet de diffuser l'éclairage sur tout son environnement de façon efficace.
+
 ## Aspects à ne pas retenir ou faits autrement
 
 Il n'est pas très intuitif de se placer devant le pilier central et encore moins de placer quatre personnes devant les quatre capteurs en même temps. Cela aurait peut-être pris un au moins moyen de mettre en évidence qu'on doit se placer devant les capteurs.
