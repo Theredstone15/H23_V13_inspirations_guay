@@ -9,6 +9,9 @@ Lien vers la page du projet: https://tim-montmorency.com/2023/projets/EDRIA/docs
 ## Informations sur l'oeuvre
 
 -Titre: EDRIA
+
 -Oeuvre réalisée par: Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe Zephyr
+
 -Année de réalisation: 2023
+
 -Description de l'oeuvre: EDRIA est un ensemble de structures recouverts de plantes, lumière et haut parleurs qui réagissent quand une personne s'en approche. La structure centrale possède plusieurs capteurs, qui déclenchent des animations quand des personnes se retrouvent autour de celle-ci. Il y a quatre capteurs sur cette structure et pour chaque capteur d'actionné, une animation joue. Une animation spéciale va également jouer quand tous les capteurs sont actionnés en même temps
