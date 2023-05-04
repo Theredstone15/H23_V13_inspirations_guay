@@ -23,6 +23,7 @@ Type d'installation: Interactive
 -Mise en espace: L'oeuvre est située à l'extérieur à un endroit public où les gens peuvent circuler. Les plusieurs structures sont placées uniformément dans cet espace.
 
 <img src="Medias/SchemaElectrique.png" style="width: 500px;"></img>
+
 [Image tirée de la page du projet]
 
 -Composantes et techniques: Les structures possèdent des haut parleurs afin de diffuser la musique et les effets sonores. Il y a également des cache-fils sur le sol afin d'éviter de trébucher sur les fils.  L'appareil qui contrôle l'oeuvre est placée dans une boîte noire. La structure du centre possède 4 capteurs qui déterminent si quelqu'un est présent. Des lumières sont également installées sur les structures afin d'éclairer l'environnement.
