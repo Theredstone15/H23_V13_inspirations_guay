@@ -8,7 +8,7 @@ Lien vers la page du projet: https://tim-montmorency.com/2023/projets/EDRIA/docs
 
 ## Informations sur l'oeuvre
 
--Titre: EDRIA
+-Titre de l'oeuvre: EDRIA
 
 -Oeuvre réalisée par: Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe Zephyr
 
@@ -30,4 +30,16 @@ Type d'installation: Interactive
 
 <img src="Medias/Speaker.jpg" style="width: 300px;"></img> <img src="Medias/CacheFil.jpg" style="width: 300px;"></img> <img src="Medias/Controleur.jpg" style="width: 300px;"></img> <img src="Medias/PoleCentre.jpg" style="width: 300px;"></img> <img src="Medias/Capteurs.jpg" style="width: 300px;"></img> <img src="Medias/PoleTop.jpg" style="width: 300px;"></img>
 
--Éléments nécessaires à l'exposition:
+-Éléments nécessaires à l'exposition: Cache-fils, Rallonges électriques, Boitiers de protection contre les intempéries, Structure en bois pour protéger le système de contrôle, caméras de sécurité.
+
+## Expérience Vécue
+
+Le mélange de sons et de lumière était très agréable. C'était plutôt amusant de se placer en face de la structure principale afin de déclencher les animations. C'était aussi plaisant d'avoir un entroit où s'asseoir grâce à la table qui s'y trouve.
+
+## Aspects à ne pas retenir ou faits autrement
+
+Il n'est pas très intuitif de se placer devant le pilier central et encore moins de placer quatre personnes devant les quatre capteurs en même temps. Cela aurait peut-être pris un au moins moyen de mettre en évidence qu'on doit se placer devant les capteurs.
+
+## Références
+
+Site consulté: https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
