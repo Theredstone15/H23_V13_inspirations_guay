@@ -2,7 +2,7 @@
 
 Lien vers la page du projet: https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
 
-- Lieu de l'exposition: Devant le collège en face du métro montmorency
+- Lieu de l'exposition: Devant le collège en face de la Salle André Mathieu
 - Type d'exposition: Temporaire
 - Date de la visite: 17 mars
 
