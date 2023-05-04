@@ -1,7 +1,9 @@
 # Présentation de Yanik Daunais, Halo Création
 
 Monsieur Yanik Daunais, Directeur Général Chez Halo Création, est venu nous exposer son point de vue sur leur processus de création et sur les défis rencontrés durant celui-ci.
+
 Halo Création est une compagnie qui se spécialise dans la création et exposition de dispositifs / œuvres multimédia. Leur processus va comme suit : Penser à ce que le dispositif doit raconter. On va donc penser aux objectifs escomptés pour ce projet. Ensuite on doit penser au contenu de ce dispositif. On doit également penser aux ressources disponibles, cela inclut ce que Halo Création est capable de se procurer, tout comme le budget du client. On va par la suite penser au public cible, donc se demander si le public est d’un très jeune âge, adulte, adolescent etc. Ensuite on va penser à comment le dispositif va raconter son histoire. On va commencer par écrire cette histoire si nécessaire, Penser au type d’œuvre choisie afin d’atteindre l’objectif (contemplatif, passif, interactif ou réalité augmentée). On va par la suite penser à l’expérience utilisateur, afin de faciliter l’utilisation pour les visiteurs.
+
 L’éco responsabilité est aussi une très grande partie de leur travail puisque des déchets électroniques sont très mauvais pour l’environnement. C’est donc pourquoi ils font attention à ce qu’ils utilisent et vont également tenter de rendre leurs créations résilientes afin de ne pas avoir à replacer plein de pièces pendant les années.
 Ce fut une conférence très instructive, malgré certains points (comme l’ingénierie électrique) qui ne nous concernent un peu moins.
 
