@@ -19,3 +19,7 @@ Lien vers la page du projet: https://tim-montmorency.com/2023/projets/EDRIA/docs
 -Description de l'oeuvre: EDRIA est un ensemble de structures recouverts de plantes, lumière et haut parleurs qui réagissent quand une personne s'en approche. La structure centrale possède plusieurs capteurs, qui déclenchent des animations quand des personnes se retrouvent autour de celle-ci. Il y a quatre capteurs sur cette structure et pour chaque capteur d'actionné, une animation joue. Une animation spéciale va également jouer quand tous les capteurs sont actionnés en même temps.
 
 Type d'installation: Interactive
+
+-Mise en espace: L'oeuvre est située à l'extérieur à un endroit public où les gens peuvent circuler. Les plusieurs structures sont placées uniformément dans cet espace.
+
+<img src="Medias/.jpg" style="width: 500px;"></img>
