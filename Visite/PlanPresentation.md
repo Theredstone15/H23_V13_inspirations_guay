@@ -18,7 +18,7 @@
 
 - Description de l'oeuvre: L'oeuvre est une compilation d'environ 730 scans de multiples lieux qui ont été pris pendant deux ans. Les images défilent à toute vitesse et forment une vidéo qui montre comment ces lieux changent en deux ans.
 
-<img src="Medias/Photo1.jpg" style="width: 300px;"></img> <img src="Medias/Photo2.jpg" style="width: 300px;"></img> https://github.com/Theredstone15/H23_V13_inspirations_guay/assets/89607306/5ffb471d-494e-4386-8c78-63c910f3897a
+<img src="Medias/Photo1.jpg" style="width: 300px;"></img> <img src="Medias/Photo2.jpg" style="width: 300px;"></img> 
 
 - Type d'exposition: Conteplative
 
