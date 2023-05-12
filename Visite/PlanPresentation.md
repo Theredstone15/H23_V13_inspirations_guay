@@ -1,4 +1,4 @@
-# Framerate
+# Framerate: Pulse of the Earth
 
 - Titre: Framerate: Pulse of the Earth
 
@@ -26,4 +26,6 @@
 
 <img src="Medias/Speaker.jpg" style="width: 300px;"></img> <img src="Medias/Controleur.jpg" style="width: 300px;"></img> 
 
-- Expérience vécue: L'oeuvre était plutôt impressionnante, sachant tout les efforts derrière chacun des vidéos. Puisque chaque écran affichait un angle différent, il était difficile de s'ennuyer. Des bancs étaient également à notre disposition afin de pouvoir se mettre confortable. Il était un peu étrange cependant que la pièce devienne complètement noire entre chacun des vidéos.
+- Expérience vécue: L'oeuvre était plutôt impressionnante, sachant tout les efforts derrière chacun des vidéos. Puisque chaque écran affichait un angle différent, il était difficile de s'ennuyer. Des bancs étaient également à notre disposition afin de pouvoir se mettre confortable. Il était un peu étrange cependant que la pièce devienne complètement noire entre chacun des vidéos. Aussi, l'oeuvre mettait beaucoup de temps à démarrer. D'ailleurs, un employé devait la démarrer en avance à cause de cela.
+
+
