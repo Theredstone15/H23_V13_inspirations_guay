@@ -22,4 +22,4 @@
 
 - Mise en espace: l'oeuvre est visionnée dans une salle très sombre avec 8 écrans placés un peu partout dans la pièce. Deux écrans sont sur le plancher et un écran est accroché au plafond. Le reste est accroché au mur. Plusieurs haut parleurs sont placés dans la pièce afin de diffuser de la musique pour aggrémenter l'oeuvre. Il semble également avoir un appareil derrière chaque écran qui doit probablement recevoir et afficher les vidéos.
 
-<img src="Medias/Speaker.jpg" style="width: 500px;"></img> <img src="Medias/Controleur.jpg" style="width: 500px;"></img>
+<img src="Medias/Speaker.jpg" style="width: 300px;"></img> <img src="Medias/Controleur.jpg" style="width: 300px;"></img>
