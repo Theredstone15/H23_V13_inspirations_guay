@@ -2,7 +2,7 @@
 
 - Titre: Framerate: Pulse of the Earth
 
-<img src="Medias/Banniere.jpg" style="width: 500px;"></img>
+<img src="Medias/Banniere.jpg" style="width: 200px;"></img>
 
 - L'oeuvre a été créée par: Matt Shaw, William Trossell, Meriko Borogove, Anetta Jones, Pascal Wyse, Tom Brooks, Kunal Lodhia, Grey Grierson, Brad Damms, Paul Macro Demelza Kingston, Theo Tan, Dorka Makai, Jacques Pillet, Nicky Ovidiu Baiculescu, Soma Sato, Emilia Clark, Manuela Mesrie, Max Celar et James White.
 
