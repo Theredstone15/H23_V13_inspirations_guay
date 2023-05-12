@@ -28,4 +28,5 @@
 
 - Expérience vécue: L'oeuvre était plutôt impressionnante, sachant tout les efforts derrière chacun des vidéos. Puisque chaque écran affichait un angle différent, il était difficile de s'ennuyer. Des bancs étaient également à notre disposition afin de pouvoir se mettre confortable. Il était un peu étrange cependant que la pièce devienne complètement noire entre chacun des vidéos. Aussi, l'oeuvre mettait beaucoup de temps à démarrer. D'ailleurs, un employé devait la démarrer en avance à cause de cela.
 
+- Enfin, Il est très impressionnant de voir comment de simples scans 3D peuvent êtres utilisés afin de créér une véritable oeuvre d'art, cela montre aussi à quel point l'organisation de la pièce est importante afin de présenter le message des créateurs.
 
