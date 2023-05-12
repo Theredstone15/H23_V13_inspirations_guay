@@ -18,7 +18,7 @@
 
 - Description de l'oeuvre: L'oeuvre est une compilation d'environ 730 scans de multiples lieux qui ont été pris pendant deux ans. Les images défilent à toute vitesse et forment une vidéo qui montre comment ces lieux changent en deux ans.
 
-<img src="Medias/Espace1.jpg" style="width: 300px;"></img> <img src="Medias/Photo2.jpg" style="width: 300px;"></img> 
+<img src="Medias/Espace1.jpg" style="width: 500px;"></img> <img src="Medias/Photo1.jpg" style="width: 300px;"></img> <img src="Medias/Photo2.jpg" style="width: 300px;"></img> 
 
 - Type d'exposition: Conteplative
 
